@@ -10,6 +10,7 @@ import type {ReactElement} from 'react';
 export 	const	MenuYCRVOptions = [
 	{path: '/ycrv', label: 'yCRV'},
 	{path: '/ycrv/holdings', label: 'Holdings'},
+	{path: '/ycrv/new-vaults', label: 'New Vaults'},
 	{path: '/ycrv/about', label: 'About'}
 ];
 
